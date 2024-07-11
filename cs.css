@@ -1,0 +1,25 @@
+#flex1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    background-color: #344151;
+    gap: 10px;
+}
+
+#flex2{
+    color: #0398d4;
+    /* font-weight: medium; */
+    font-size: 20px;
+}
+
+#flex3{
+    display: flex;
+    background-color: white;
+    font-size: 25px;
+    border-radius: 5px;
+    gap: 12px;
+    padding: 3px;
+}
